@@ -417,8 +417,7 @@ def main():
 
     # Add events to monitor
     event_urls = [
-        "https://www.eventbrite.com/e/north-brunswick-nj-main-street-north-brunswick-community-day-tickets-1406481517079?aff=ebdsoporgprofile",
-        "https://www.eventbrite.com/e/cava-north-bevery-plaza-community-day-beverly-ma-tickets-1416951894259?aff=erelexpmlt",
+        "https://www.eventbrite.com/e/north-brunswick-nj-main-street-north-brunswick-community-day-tickets-1406481517079?aff=ebdsoporgprofile"
         # Add more event URLs as needed
     ]
 
